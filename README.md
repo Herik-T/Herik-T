@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello World! 👋🌍
 
 <!--
 **Herik-T/Herik-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Data Science and 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###Con
+
+- 📚 I'm currently studing data sciences and economics 💻💰📊
+
+###Languages and Tools:
+Python
+Java
+
+###Projects:
+[PsiData](https://github.com/brunamulinari/TechLabsProject_PsiData/blob/main/README.md)
+
+###You can contact me at
+📬 tomasiok@gmail.com
+📲 +55 41 99238-2623
+📈📌🖱
+And you can find me on [Linkedin](https://www.linkedin.com/in/herik-tomasiok-0a9223216/)
